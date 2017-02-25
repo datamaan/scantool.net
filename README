@@ -9,6 +9,7 @@
 
  - libxxf86dga-dev
  - liballegro4-dev
+ - libasound2-dev
 
 ======================================
 ============= Disclaimer =============
